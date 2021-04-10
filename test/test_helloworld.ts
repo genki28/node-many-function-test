@@ -1,6 +1,6 @@
 import chai = require('chai')
 import chaiHttp = require('chai-http')
-import * as express from "express"
+import express from "express"
 
 import { helloWorld } from '../src/index'
 

@@ -28,7 +28,9 @@
     ],
     "author": "\"@flatfisher <kyoheitsuda@flatfish.jp> (https://kyohei.flatfish.jp)",
     "license": "MIT",
-    "dependencies": {},
+    "dependencies": {
+        "winston": "^3.3.3"
+    },
     "devDependencies": {
         "@types/chai": "4.2.16",
         "@types/chai-http": "4.2.0",

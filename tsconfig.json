@@ -16,7 +16,7 @@
         "alwaysStrict": true,
         "preserveConstEnums": true,
         "sourceMap": false,
-        "esModuleInterop": false,
+        "esModuleInterop": true,
         "outDir": "functions",
         "noImplicitReturns": true
     },
